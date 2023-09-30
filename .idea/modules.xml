@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app-order-bot/order-server/order-bot.iml" filepath="$PROJECT_DIR$/app-order-bot/order-server/order-bot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app-order-bot/order-client/order-client.iml" filepath="$PROJECT_DIR$/app-order-bot/order-client/order-client.iml" />
+    </modules>
+  </component>
+</project>
